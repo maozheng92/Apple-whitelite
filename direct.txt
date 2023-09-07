@@ -38,7 +38,6 @@ payload:
   - 'bg.v4.a.dl.ws.microsoft.com'
   - 'bg4.v4.a.dl.ws.microsoft.com'
   - 'bj1.api.bing.com'
-  - 'bookkeeper.itunes.apple.com'
   - 'borgmon.adz.google.com'
   - 'c.admob.com'
   - 'c.android.clients.google.com'
