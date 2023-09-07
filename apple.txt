@@ -125,6 +125,7 @@ payload:
   - '+.swscan-cdn.apple.com.akadns.net'
   - '+.swscan.apple.com'
   - '+.tv.apple.com'
+  - '+.tv.v.aaplimg.com'
   - '+.updates-http.cdn-apple.com.akadns.net'
   - '+.updates-http.cdn-apple.com'
   - '+.updates.cdn-apple.com'
