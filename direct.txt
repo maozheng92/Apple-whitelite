@@ -29,7 +29,6 @@ payload:
   - 'apps5.oingo.com'
   - 'apptrailers.itunes.apple.com'
   - 'avail.googleflights.net'
-  - 'bag.itunes.apple.com'
   - 'beacons-handoff.gcp.gvt2.com'
   - 'beacons.gcp.gvt2.com'
   - 'beacons.gvt2.com'
