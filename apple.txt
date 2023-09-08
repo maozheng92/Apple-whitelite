@@ -142,3 +142,4 @@ payload:
   - '+.xp.apple.com'
   - 'amp-api-edge-lb.itunes-apple.com.akadns.net'
   - 'profile.gc.apple.com'
+  - 'cma2.itunes.apple.com'
