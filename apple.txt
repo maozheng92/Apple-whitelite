@@ -140,3 +140,4 @@ payload:
   - '+.www.apple.com.edgekey.net'
   - '+.www.apple.com'
   - '+.xp.apple.com'
+  - 'amp-api-edge-lb.itunes-apple.com.akadns.net'
