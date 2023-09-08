@@ -9,4 +9,3 @@ payload:
   - '+.picacomic.com'
   - '+.blobstore.apple.com'
   - '+.itunes-apple.com.akadns.net'
-  - 'profile.gc.apple.com'
