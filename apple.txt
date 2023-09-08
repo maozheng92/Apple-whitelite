@@ -141,5 +141,4 @@ payload:
   - '+.www.apple.com'
   - '+.xp.apple.com'
   - 'amp-api-edge-lb.itunes-apple.com.akadns.net'
-  - 'blobstore-apple.com.akadns'
   - 'profile.gc.apple.com'
