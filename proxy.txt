@@ -289,6 +289,7 @@ payload:
   - 'scholar.google.sk'
   - 'scholar.googleusercontent.com'
   - 'scholar.l.google.com'
+  - 'setup.icloud.com'
   - 'sni1dcb6gl.wpc.edgecastcdn.net'
   - 'spotify.com.edgesuite.net'
   - 'spotify.map.fastly.net'
