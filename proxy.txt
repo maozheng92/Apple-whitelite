@@ -5,6 +5,7 @@ payload:
   - 'deimos.apple.com'
   - 'blog.reimu.net'
   - 'bag.itunes.apple.com'
+  - 'mikanani.me'
   - '+.v2ex.com'
   - '+.picacomic.com'
   - '+.blobstore.apple.com'
