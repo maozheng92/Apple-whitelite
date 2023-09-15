@@ -446,6 +446,7 @@ payload:
   - 'wwis-dubc1-vip99.adobe.com'
   - 'www-cdn.icloud.com.akadns.net'
   - 'zeenews-fonts.s3.amazonaws.com'
+  - 'xp.apple.com'
   - '+.000webhost.com'
   - '+.01.org'
   - '+.02weqj32.com'
