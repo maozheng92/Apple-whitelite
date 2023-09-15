@@ -310,7 +310,7 @@ payload:
   - 'steamusercontent-a.akamaihd.net'
   - 'steamuserimages-a.akamaihd.net'
   - 'steamvideo-a.akamaihd.net'
-  - 'store-032.blobstore.apple.com'
+  - 'setup.icloud.com'
   - 't21.nikkei.co.jp'
   - 't21ipau.nikkei.co.jp'
   - 'teamviewer.com.cdn.cloudflare.net'
