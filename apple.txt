@@ -142,7 +142,6 @@ payload:
   - '+.applezh.com'
   - '+.apps.apple.com'
   - '+.apps.mzstatic.com'
-  - '+.blobstore.apple.com'
   - '+.cdn-apple.com'
   - '+.cdn-cn1.apple-mapkit.com'
   - '+.cdn-cn2.apple-mapkit.com'
