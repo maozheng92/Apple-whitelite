@@ -1701,7 +1701,6 @@ payload:
   - '+.apple-darwin.net'
   - '+.apple-darwin.org'
   - '+.apple-dns.com'
-  - '+.apple-dns.net'
   - '+.apple-enews.com'
   - '+.apple-expo.com'
   - '+.apple-hk.com'
