@@ -1,9 +1,9 @@
 payload:
-  - 'metrics.icloud.com'
   - '+.www-cdn.icloud.com.akadns.net'
   - '+.applemx-icloud.com'
   - '+.icloud-content.com'
   - '+.icloud-isupport.com'
+  - '+.icloud.com'
   - '+.icloud.ch'
   - '+.icloud.de'
   - '+.icloud.ee'
