@@ -9,6 +9,7 @@ payload:
   - '+.app-site-association.cdn-apple.com'
   - '+.appldnld.apple.com'
   - '+.appldnld.g.aaplimg.com'
+  - '+.apple-dns.net'
   - '+.appleid.cdn-apple.com'
   - '+.apps.apple.com'
   - '+.apps.mzstatic.com'
