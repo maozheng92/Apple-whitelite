@@ -169,6 +169,7 @@ payload:
   - '+.cl5.apple.com'
   - '+.clientflow.apple.com.akadns.net'
   - '+.clientflow.apple.com'
+  - '+.com.akadns.net'
   - '+.configuration.apple.com.akadns.net'
   - '+.configuration.apple.com'
   - '+.cstat.apple.com'
