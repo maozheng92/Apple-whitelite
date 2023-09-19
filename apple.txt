@@ -1,7 +1,6 @@
 payload:
   - 'appleworldwidedeveloper.hb-api.omtrdc.net'
   - 'appleworldwidedeveloper.sc.omtrdc.net'
-  - 'configuration.ls.apple.com'
   - 'profile.gc.apple.com'
   - '+.a1.mzstatic.com'
   - '+.a2.mzstatic.com'
