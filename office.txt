@@ -1,0 +1,4 @@
+  - '+.office'
+  - '+.office.com'
+  - '+.office.net'
+  - '+.office365.com'
