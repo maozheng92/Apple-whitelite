@@ -315,6 +315,7 @@ payload:
   - 'ulrichsweb.serialssolutions.com'
   - 've-dash-uk-live.akamaized.net'
   - 've-uhd-push-uk-live.akamaized.net'
+  - 'v2rayssr.com'
   - 'venmo.s3.amazonaws.com'
   - 'videos-rockstargames-com.akamaized.net'
   - 'vmware.tt.omtrdc.net'
