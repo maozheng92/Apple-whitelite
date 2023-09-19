@@ -875,7 +875,6 @@ payload:
   - '+.aalah.me'
   - '+.aamacau.com'
   - '+.aanaan.com'
-  - '+.aaplimg.com'
   - '+.aarp'
   - '+.aavs.xyz'
   - '+.abarth'
