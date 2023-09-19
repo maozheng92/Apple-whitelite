@@ -178,7 +178,7 @@ payload:
   - '+.discussionsapple.com'
   - '+.download.developer.apple.com'
   - '+.find-apple.com'
-  - '+.g.aaplimg.com
+  - '+.g.aaplimg.com'
   - '+.gs-loc-cn.apple.com'
   - '+.gs-loc.apple.com'
   - '+.gsp10-ssl-cn.ls.apple.com'
