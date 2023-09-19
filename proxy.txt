@@ -72,6 +72,7 @@ payload:
   - 'client-teamviewer-com.trafficmanager.net'
   - 'clients1.google.com'
   - 'cloudsync-prod.s3.amazonaws.com'
+  - 'configuration.ls.apple.com'
   - 'crl.microsoft.com'
   - 'crl.versign.net'
   - 'csis-prod.s3.amazonaws.com'
