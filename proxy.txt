@@ -59,7 +59,6 @@ payload:
   - 'bnetcmsus-a.akamaihd.net'
   - 'bnetproduct-a.akamaihd.net'
   - 'bnetshopus.akamaized.net'
-  - 'bookkeeper.itunes.apple.com'
   - 'brightcove.imgix.net'
   - 'cbsi.live.ott.irdeto.com'
   - 'cbsplaylistserver.aws.syncbak.com'
