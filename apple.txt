@@ -178,6 +178,7 @@ payload:
   - '+.discussionsapple.com'
   - '+.download.developer.apple.com'
   - '+.find-apple.com'
+  - '+.g.aaplimg.com
   - '+.gs-loc-cn.apple.com'
   - '+.gs-loc.apple.com'
   - '+.gsp10-ssl-cn.ls.apple.com'
@@ -281,6 +282,7 @@ payload:
   - '+.updates-http.cdn-apple.com.akadns.net'
   - '+.updates-http.cdn-apple.com'
   - '+.updates.cdn-apple.com'
+  - '+.v.aaplimg.com'
   - '+.valid.apple.com'
   - '+.valid.origin-apple.com.akadns.net'
   - '+.weather-data.apple.com.akadns.net'
