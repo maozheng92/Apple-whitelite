@@ -9330,6 +9330,7 @@ payload:
   - '+.itu.int'
   - '+.itunbes.com'
   - '+.ituneas.com'
+  - '+.itunes.apple.com'
   - '+.itunes12days.com'
   - '+.itunesessentials.com'
   - '+.itunesfestivals.com'
