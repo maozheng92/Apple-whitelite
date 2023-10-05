@@ -16541,7 +16541,6 @@ payload:
   - '+.tutanota.com'
   - '+.tuvpn.com'
   - '+.tuzaijidi.com'
-  - '+.tv'
   - '+.tv.com'
   - '+.tv.jtbc.joins.com'
   - '+.tvants.com'
