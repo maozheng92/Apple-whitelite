@@ -1,4 +1,5 @@
 payload:
+  - 'graph.microsoft.com'
   - 'XSP-efz.ms-acdc.office.com'
   - '+.office'
   - '+.office.com'
