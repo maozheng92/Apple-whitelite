@@ -169,6 +169,7 @@ payload:
   - 'mtalk.google.com'
   - 'muse.jhu.edu'
   - 'mwf-service.akamaized.net'
+  - 'mz4.qy0.ru'
   - 'na1r.services.adobe.com'
   - 'nab.demdex.net'
   - 'nationalaustraliaban.tt.omtrdc.net'
