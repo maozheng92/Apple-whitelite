@@ -276,6 +276,7 @@ payload:
   - 'prod.databe.floonet.goog'
   - 'productcard.gog-statics.com'
   - 'publicassets.cdn-apple.com'
+  - 'pubsub.plex.tv'
   - 'qagpublic.qatp1.net'
   - 'qagpublic.qcpp1.net'
   - 'qagpublic.qpdp1.net'
