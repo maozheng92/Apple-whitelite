@@ -128,6 +128,7 @@ payload:
   - 'firebaseremoteconfig.googleapis.com'
   - 'firstsearch.oclc.org'
   - 'fontshop-prod-responsive-images.s3.amazonaws.com'
+  - 'forum.openwrt.org'
   - 'foxnewsplayer-a.akamaihd.net'
   - 'gamedownloads-rockstargames-com.akamaized.net'
   - 'gamer-cds.cdn.hinet.net'
