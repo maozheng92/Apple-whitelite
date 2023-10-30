@@ -3,7 +3,6 @@ payload:
   - '+.applemx-icloud.com'
   - '+.icloud-content.com'
   - '+.icloud-isupport.com'
-  - '+.icloud.com'
   - '+.icloud.ch'
   - '+.icloud.de'
   - '+.icloud.ee'
