@@ -1,6 +1,6 @@
 ! Title: Dedicated AD Rules
-! Version: 0.0.1.1
-! TimeUpdated: 2023-10-06T1:51:00+00:00
+! Version: 0.0.1.2
+! TimeUpdated: 2023-1-28T1:51:00+00:00
 @@||ai.arsrna.cn^$important,document
 @@||hitomi.la^$important,document
 @@||login.taobao.com^$important,document
@@ -18,3 +18,5 @@
 @@||www.vmware.com^$important,document
 @@||xunlei.com^$document
 @@||yundun.console.aliyun.com^$important,document
+||star.xfztgxt.com^
+|https://www.colamanga.com/template/vfed/asset/js/global.js
