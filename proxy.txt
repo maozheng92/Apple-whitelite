@@ -4332,6 +4332,7 @@ payload:
   - '+.contests.twilio.com'
   - '+.convio.net'
   - '+.convrgencegame.com'
+  - '+.colamanga.com'
   - '+.coobay.com'
   - '+.cookiechoices.org'
   - '+.cookingchannel'
