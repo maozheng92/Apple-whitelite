@@ -53,6 +53,8 @@ payload:
   - 'bingsettingssearch.trafficmanager.net'
   - 'blizzard.nefficient.co.kr'
   - 'blizzcon-a.akamaihd.net'
+  - 'blog.reimu.net'
+  - 'blogs.reimu.net'
   - 'blzddist1-a.akamaihd.net'
   - 'blzddistkr1-a.akamaihd.net'
   - 'blzmedia-a.akamaihd.net'
