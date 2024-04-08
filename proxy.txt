@@ -80,6 +80,7 @@ payload:
   - 'crl.microsoft.com'
   - 'crl.versign.net'
   - 'csis-prod.s3.amazonaws.com'
+  - 'd.docs.live.net'
   - 'd1k2us671qcoau.cloudfront.net'
   - 'd29vzk4ow07wi7.cloudfront.net'
   - 'd2anahhhmp1ffz.cloudfront.net'
