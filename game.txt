@@ -1,5 +1,5 @@
 payload:
-  - 'api.pokemon-home.com'
+  - '+.pokemon-home.com'
   - '+.nintendo-europe-sales.com'
   - '+.nintendo-europe.com'
   - '+.nintendo.com'
