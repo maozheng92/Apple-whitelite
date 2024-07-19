@@ -12733,6 +12733,7 @@ payload:
   - '+.palestineremix.com'
   - '+.pali.ltd'
   - '+.paljorpublications.com'
+  - '+.parallels.com'
   - '+.paltalk.com'
   - '+.pamperedchef'
   - '+.panasonic'
