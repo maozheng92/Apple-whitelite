@@ -43121,7 +43121,6 @@ payload:
   - '+.plcent.com'
   - '+.plcloud.com'
   - '+.plesk-cn.com'
-  - '+.plex.tv'
   - '+.plexpt.com'
   - '+.plngan.net'
   - '+.plob.org'
