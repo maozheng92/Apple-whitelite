@@ -1,6 +1,7 @@
 payload:
   - 'appleworldwidedeveloper.hb-api.omtrdc.net'
   - 'appleworldwidedeveloper.sc.omtrdc.net'
+  - 'gateway.icloud.com.cn'
   - 'profile.gc.apple.com'
   - '+.a1.mzstatic.com'
   - '+.a2.mzstatic.com'
