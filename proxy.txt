@@ -8427,7 +8427,6 @@ payload:
   - '+.hotladyhere.com'
   - '+.hotmail'
   - '+.hotmail.co'
-  - '+.hotmail.com'
   - '+.hotmail.net'
   - '+.hotmail.org'
   - '+.hotmonsterbeats.com'
