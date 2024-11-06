@@ -4,7 +4,7 @@ payload:
   - 'gamer2-cds.cdn.hinet.net'
   - '+.bahamut.com.tw'
   - '+.digicert.com'
-  - '+.gamer.com.tw'
+  - 'wall.gamer.com.tw'
   - '+.gvt1.com'
   - '+.hinet.net'
   - '+.viblast.com'
