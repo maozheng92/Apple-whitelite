@@ -1,6 +1,6 @@
 ! Title: Dedicated AD Rules
-! Version: 0.0.1.2
-! TimeUpdated: 2024-2-28T1:51:00+00:00
+! Version: 0.0.1.3
+! TimeUpdated: 2024-3-28T1:51:00+00:00
 @@||ai.arsrna.cn^$important,document
 @@||hitomi.la^$important,document
 @@||login.taobao.com^$important,document
@@ -36,4 +36,6 @@ bilibili.com###slide_ad
 @@||web.save-editor.com^$important,document
 18comic.vip##div[class$="list-col"]
 18comic.vip##.hidden-lg
+18comic.vip##.ipprtcnt
 sojson.com##div[class^="pl0"]
+||azcmcacuc.com^
