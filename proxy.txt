@@ -153,6 +153,7 @@ payload:
   - 'github-cloud.s3.amazonaws.com'
   - 'gitlab-assets.oss-cn-hongkong.aliyuncs.com'
   - 'graph.microsoft.com'
+  - 'greasyfork.org'
   - 'gsas.apple.com'
   - 'hamivideo.hinet.net'
   - 'hammerandchisel.ssl.zendesk.com'
