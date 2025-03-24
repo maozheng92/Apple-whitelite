@@ -14,11 +14,11 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https?:\/\/prodregistryv2\.org\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pillow.js
+^https?:\/\/api\.rc-backup\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pillow.js
 
 [mitm] 
 
-hostname = prodregistryv2.org
+hostname = api.rc-backup.com
 
 *******************************/
 
