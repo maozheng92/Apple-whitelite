@@ -7,4 +7,4 @@
 [Script]
 http-response https?:\/\/api\.rc-backup\.com\/v1\/subscribers\/\$PLAnonymousID\%3AFEC18577\-CF55\-41EB\-A61B\-641207A55371 requires-body=1 ,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/pillow.js
 [MITM]
-hostname = api.revenuecat.com
+hostname = api.rc-backup.com
