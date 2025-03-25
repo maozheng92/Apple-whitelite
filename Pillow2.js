@@ -14,7 +14,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https?:\/\/api\.rc-backup\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pillow.js
+^https?:\/\/api\.rc-backup\.com\/v1\/subscribers\/$PLAnonymousID%3AFEC18577-CF55-41EB-A61B-641207A55371 url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pillow.js
 
 [mitm] 
 
