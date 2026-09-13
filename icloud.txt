@@ -21,8 +21,6 @@ payload:
   - '+.icloud.si'
   - '+.icloud.sk'
   - '+.icloud.vn'
-  - '+.icloud-content.com'
-  - '+.icloud-isupport.com'
   - '+.icloudads.net'
   - '+.icloudbox.net'
   - '+.icloudbrowser.net'
